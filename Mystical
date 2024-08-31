@@ -1,7 +1,7 @@
 {
   "green": [
+"Apocalyptic Background",
 "Bioluminescent Beach Background",
-"Brightvale Glaziers Background",
 "Broken Stained Glass Window Background",
 "Cosy Gamer Background",
 "Creepy Cave Background",
@@ -10,10 +10,13 @@
 "Enchanted Jungle Background",
 "Exploring Kreludor Background",
 "Flying Over Meridell Background",
+"Glow in the Dark Mutant Mini Golf Background",
 "Grey Road",
 "Outside Desert Arms Background",
+"Overhead Flying Object Background",
 "Petpet Trainer Background",
 "Scenic Cliff Climbing Background",
+"Stans Stash Background",
 "Stylish Neohome Background",
 "Tyrannian Concert Hall Background"
   ],
@@ -21,6 +24,7 @@
 
   ],
  "yellow": [
+"Brightvale Glaziers Background",
 "Xandras Library Background"
 ],
 
