@@ -1,26 +1,25 @@
 {
   "green": [
 "Arctic Aurora Borealis",
-"Cosy Corner",
-"Idyllic Nature Scene"
+"Idyllic Nature Scene",
+"Inside a Faerie Home"
   ],
   "purple": [
-"Outside Desert Arms"
+
   ],
  "yellow": [
-"Bioluminescent Beach",
-"Creepy Cave",
-"Inside a Faerie Home",
-"Luxe Cosy Chalet"
+"Cosy Corner",
+"Creepy Cave"
 ],
  "pink": [
+"Bioluminescent Beach",
 "Broken Stained Glass Window",
 "Candy Hearts",
 "Dreamy Pink Hearts",
 "Exploring Kreludor",
+"Floating Fruit Vendor",
 "Jhudora Convention",
 "Petpet Trainer",
-"Tyrannian Concert Hall",
-"Floating Fruit Vendor"
+"Tyrannian Concert Hall"
 ]
 }
