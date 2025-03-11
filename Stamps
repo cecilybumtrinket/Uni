@@ -2,10 +2,8 @@
   "green": [
 "Alien Aisha Myriad Stamp",
 "Darigan Shield Stamp",
-"Exploding Acorns Stamp",
 "Holographic Sakhmet City Stamp",
 "Hubrid Nox Stamp",
-"Inverted Space Faerie Stamp",
 "Jewelled Scarab Stamp",
 "Mayor of Moltara Stamp",
 "NeoQuest II Logo Stamp",
@@ -74,12 +72,14 @@
  "yellow": [
 "Fountain Faerie Stamp",
 "Geb Stamp",
+"Inverted Space Faerie Stamp",
 "King Skarl Stamp",
 "Lava Monster Stamp",
 "Rampaging Grundonoil Stamp",
 "Shop Wizard Stamp",
 "Sticky Snowflake Stamp",
-"Tuskaninny Day Stamp"
+"Tuskaninny Day Stamp",
+"Tyrannian Usul Stamp"
 ], 
  "pink": [
 "105 Castle Secrets Stamp",
@@ -133,6 +133,7 @@
 "Eleus Stamp",
 "Eraser of the Dark Faerie Stamp",
 "Evil Fuzzles Stamp",
+"Exploding Acorns Stamp",
 "Faerie Bubbles Stamp",
 "Faerie Slorg Stamp",
 "Feldon Dinksy Collibridge Stamp",
