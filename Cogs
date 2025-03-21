@@ -2,7 +2,6 @@
   "green": [
 "Age of Wonder Wings",
 "Beautiful Buzz Head",
-"Fancy Gelert Ears",
 "Iridescent Faerie Crown",
 "Safety Chia Traffic Cone"
   ],
@@ -13,10 +12,7 @@
 "Age of Wonder Makeup",
 "Bomber Jacket Shrug",
 "Dappled Uni Markings",
-"Fancy Gelert Tail",
-"Floppy Gelert Tail",
-"Hydra Draik Heads",
-"Shadow Shard Lenny Adornments"
+"Hydra Draik Heads"
 ],
  "pink": [
 "Adorable Scorchio Body",
@@ -45,7 +41,6 @@
 "Mythical Xweetok Body",
 "Mythical Xweetok Head",
 "Mythical Xweetok Hind",
-"Shadow Shard Lenny Cloak",
 "Spirit Draik Head"
 ]
 }
