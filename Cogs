@@ -1,11 +1,7 @@
 {
   "green": [
-"Age of Wonder Wings",
-"Beautiful Buzz Head",
-"Dappled Uni Markings",
-"Fabled Uni Head",
-"Iridescent Faerie Crown",
-"Safety Chia Traffic Cone"
+"Fabled Uni Body",
+"Spirit Draik Head"
   ],
   "purple": [
 "Museum Chomby Pedestal",
@@ -13,14 +9,17 @@
   ],
  "yellow": [
 "Age of Wonder Makeup",
-"Bomber Jacket Shrug",
-"Hydra Draik Heads"
+"Beautiful Buzz Head",
+"Fabled Uni Head",
+"Fluffy Gelert Ears",
+"Iridescent Faerie Crown"
 ],
  "pink": [
 "Adorable Scorchio Body",
 "Adorable Scorchio Head",
 "Adorable Scorchio Tail",
 "Adorable Scorchio Wings",
+"Age of Wonder Wings",
 "Beautiful Buzz Body",
 "Beautiful Buzz Cloak",
 "Crested Chomby Body",
@@ -31,9 +30,7 @@
 "Fabled Ogrin Body",
 "Fabled Ogrin Head",
 "Fabled Ogrin Hind",
-"Fabled Uni Body",
 "Fabled Uni Wings",
-"Fluffy Gelert Ears",
 "Fluffy Gelert Tail",
 "Iridescent Faerie Dress",
 "Magical Delivery Aisha Body",
@@ -43,7 +40,6 @@
 "Magical Delivery Aisha Tail",
 "Mythical Xweetok Body",
 "Mythical Xweetok Head",
-"Mythical Xweetok Hind",
-"Spirit Draik Head"
+"Mythical Xweetok Hind"
 ]
 }
