@@ -1,46 +1,34 @@
 {
   "green": [
-"Age of Wonder Makeup",
 "Beautiful Buzz Cloak",
-"Deep Space Galaxy Markings",
-"Obsidian Shoyru Horns",
-"Obsidian Shoyru Scales"
+"Fuzzy Lutari Body",
+"Jewelled Shoyru Scales"
   ],
   "purple": [
 "Geared Up Grundo Trousers",
 "Moltaran Fashion Eyrie Skirt",
+"Spirit Draik Body",
 "Spirit Draik Tail"
   ],
  "yellow": [
-"Crested Chomby Body",
-"Crested Chomby Hind",
-"Ember Shoyru Scales",
+"Adorable Scorchio Wings",
+"Age of Wonder Makeup",
+"Fabled Uni Head",
+"Fuzzy Lutari Hind",
 "Iridescent Faerie Crown",
-"Iridescent Faerie Dress",
-"Spirit Draik Head"
+"Iridescent Faerie Dress"
 ],
  "pink": [
 "Adorable Scorchio Body",
-"Adorable Scorchio Head",
-"Adorable Scorchio Wings",
 "Age of Wonder Wings",
 "Beautiful Buzz Body",
-"Beautiful Buzz Head",
-"Commodore Rigney Kougra Beard",
-"Commodore Rigney Kougra Boots",
-"Commodore Rigney Kougra Hat",
-"Commodore Rigney Kougra Jumpsuit",
 "Cursed Banshee Tears",
 "Elegant Punk Guitar",
 "Fabled Ogrin Body",
 "Fabled Ogrin Head",
 "Fabled Ogrin Hind",
-"Fabled Uni Wings",
-"Fuzzy Lutari Body",
 "Fuzzy Lutari Head",
-"Fuzzy Lutari Hind",
 "Fuzzy Lutari Pebble",
-"Jewelled Shoyru Scales",
 "Magical Delivery Aisha Body",
 "Magical Delivery Aisha Bowtie",
 "Magical Delivery Aisha Head",
@@ -48,6 +36,6 @@
 "Magical Delivery Aisha Tail",
 "Mythical Xweetok Body",
 "Mythical Xweetok Head",
-"Mythical Xweetok Hind"
+"Mythical Xweetok Hind",
 ]
 }
