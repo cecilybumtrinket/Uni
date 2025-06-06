@@ -1,13 +1,14 @@
 {
   "green": [
+"Age of Wonder Makeup",
 "Age of Wonder Wings"
   ],
   "purple": [
-"Moltaran Fashion Eyrie Skirt",
-"Museum Elephante Pedestal"
+
   ],
  "yellow": [
-"Adorable Scorchio Body"
+"Adorable Scorchio Body",
+"Iridescent Faerie Dress"
 ],
  "pink": [
 "Cursed Banshee Tears",
@@ -18,6 +19,7 @@
 "Glowing Algae Koi Cloak",
 "Glowing Algae Koi Fin",
 "Glowing Algae Koi Staff",
+"Java JubJub Body",
 "Magical Delivery Aisha Body",
 "Magical Delivery Aisha Bowtie",
 "Magical Delivery Aisha Head",
@@ -25,11 +27,6 @@
 "Magical Delivery Aisha Tail",
 "Mythical Xweetok Body",
 "Mythical Xweetok Head",
-"Mythical Xweetok Hind",
-"Mythical Yurble Body",
-"Mythical Yurble Bottle",
-"Mythical Yurble Hat",
-"Mythical Yurble Head",
-"Mythical Yurble Scroll"
+"Mythical Xweetok Hind"
 ]
 }
