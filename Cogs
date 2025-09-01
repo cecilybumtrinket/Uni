@@ -1,34 +1,23 @@
 {
   "green": [
-"Fire Bori Claws",
-"Fire Bori Tail",
-"Fire Shoyru Tail",
-"Iridescent Faerie Dress",
-"Magical Delivery Aisha Tail",
-"Mythical Peophin Body"
+"Iridescent Faerie Dress"
   ],
   "purple": [
-"Fabled Ogrin Body",
-"Fire Eyrie Tail",
 "Geared Up Grundo Trousers",
-"Ixi Fire Horns",
-"Korbat Fire Wings",
-"Magical Delivery Aisha Mouth",
-"Mythical Xweetok Body"
+"Luperus Lupe Tail",
+"Moltara Citizen Gelert Trousers"
   ],
  "yellow": [
+"Age of Wonder Makeup",
+"Age of Wonder Wings",
 "Bomber Jacket Shrug",
-"Draik Fire Tail",
-"Fire Elephante Tusks",
 "Iridescent Faerie Wings",
-"Ixi Fire Tail",
-"Korbat Fire Tail",
+"JubJub Moltara Inventor Shoes",
+"Luperus Lupe Head",
 "Magical Delivery Aisha Body",
-"Magical Delivery Aisha Bowtie",
-"Meerca Tail Teacup",
+"Magical Delivery Aisha Tail",
 "Moltaran Inventor Kau Boots",
-"Mythical Peophin Hat",
-"Mythical Peophin Tail"
+"Moltaran Inventor Kau Jacket"
 ],
  "pink": [
 "Cursed Banshee Tears",
@@ -36,12 +25,17 @@
 "Dumpling JubJub Body",
 "Dumpling JubJub Lid",
 "Elegant Punk Guitar",
+"Ethereal Kyrii Body",
+"Ethereal Kyrii Hair",
+"Ethereal Kyrii Head",
+"Ethereal Kyrii Pond Foreground",
+"Fabled Ogrin Body",
 "Fabled Ogrin Head",
 "Fabled Ogrin Hind",
 "Magical Delivery Aisha Head",
-"Mythical Peophin Head",
+"Magical Delivery Aisha Mouth",
+"Mythical Xweetok Body",
 "Mythical Xweetok Head",
-"Mythical Xweetok Hind",
-"Scordrax Scorchio Flames"
+"Mythical Xweetok Hind"
 ]
 }
